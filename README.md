@@ -54,9 +54,9 @@ Then, in a separate terminal window, start the frontend dev server:
 ```sh
 npm run dev
 ```
-- Frontend available at: http://localhost:5173
+- Frontend available at port 5173
 
-- Backend API runs at: http://localhost:3000
+- Backend API runs at port 3000
 
 ### Compile and Minify for Production
 
