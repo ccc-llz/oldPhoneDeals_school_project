@@ -1,0 +1,1 @@
+# oldPhoneDeals_school_project
